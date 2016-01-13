@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 程序员在新西兰</title>
+    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <description>Recent content in Posts on 程序员在新西兰</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2016 13:09:08 +1300</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>登录新西兰一周年</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/one_year_annivesary/</link>
+      <pubDate>Wed, 13 Jan 2016 13:09:08 +1300</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/one_year_annivesary/</guid>
+      <description>&lt;p&gt;2015年12月28日，十个多小时的飞机（真的记不住是多久， 反正没有）&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
